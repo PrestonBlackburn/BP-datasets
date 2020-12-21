@@ -1,0 +1,2522 @@
+[
+ {
+   "Year": 1980,
+   "Gasoline US (1000 bbl": {
+      "d)": 6613
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3260
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1009
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 6179
+   },
+   "Total US (1000 bbl": {
+      "d)": 17062
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2786
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 4925
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 567
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 7491
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 15769
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 229
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 344
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 81
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1053
+   },
+   "Total China (1000 bbl": {
+      "d)": 1707
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 14481
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 15179
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4085
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 27663
+   },
+   "Total World (1000 bbl": {
+      "d)": 61408
+   }
+},
+ {
+   "Year": 1981,
+   "Gasoline US (1000 bbl": {
+      "d)": 6489
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3166
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 936
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5469
+   },
+   "Total US (1000 bbl": {
+      "d)": 16060
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2689
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 4640
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 541
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6903
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14772
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 216
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 341
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 77
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 992
+   },
+   "Total China (1000 bbl": {
+      "d)": 1625
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 14364
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 14908
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4025
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 26236
+   },
+   "Total World (1000 bbl": {
+      "d)": 59533
+   }
+},
+ {
+   "Year": 1982,
+   "Gasoline US (1000 bbl": {
+      "d)": 6461
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 2911
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 932
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4991
+   },
+   "Total US (1000 bbl": {
+      "d)": 15295
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2715
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 4465
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 533
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6400
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14112
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 228
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 330
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 75
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 981
+   },
+   "Total China (1000 bbl": {
+      "d)": 1614
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 14362
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 14489
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 3995
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 24998
+   },
+   "Total World (1000 bbl": {
+      "d)": 57845
+   }
+},
+ {
+   "Year": 1983,
+   "Gasoline US (1000 bbl": {
+      "d)": 6573
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 2928
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 966
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4767
+   },
+   "Total US (1000 bbl": {
+      "d)": 15235
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2718
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 4480
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 525
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6128
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 13851
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 251
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 342
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 81
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 980
+   },
+   "Total China (1000 bbl": {
+      "d)": 1654
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 14466
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 14565
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4039
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 24595
+   },
+   "Total World (1000 bbl": {
+      "d)": 57665
+   }
+},
+ {
+   "Year": 1984,
+   "Gasoline US (1000 bbl": {
+      "d)": 6681
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3061
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1068
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4915
+   },
+   "Total US (1000 bbl": {
+      "d)": 15725
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2767
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 4499
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 545
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6104
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 13915
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 275
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 362
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 85
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 991
+   },
+   "Total China (1000 bbl": {
+      "d)": 1713
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 14692
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 14871
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4223
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 25122
+   },
+   "Total World (1000 bbl": {
+      "d)": 58908
+   }
+},
+ {
+   "Year": 1985,
+   "Gasoline US (1000 bbl": {
+      "d)": 6755
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3104
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1119
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4749
+   },
+   "Total US (1000 bbl": {
+      "d)": 15726
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3033
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5121
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 627
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6812
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 15594
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 320
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 402
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 85
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1000
+   },
+   "Total China (1000 bbl": {
+      "d)": 1807
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 14923
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 15219
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4223
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 24953
+   },
+   "Total World (1000 bbl": {
+      "d)": 59319
+   }
+},
+ {
+   "Year": 1986,
+   "Gasoline US (1000 bbl": {
+      "d)": 6918
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3197
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1203
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4963
+   },
+   "Total US (1000 bbl": {
+      "d)": 16281
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3140
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5310
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 655
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6993
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16099
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 344
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 438
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 85
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1057
+   },
+   "Total China (1000 bbl": {
+      "d)": 1925
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 15318
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 15609
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4393
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 25781
+   },
+   "Total World (1000 bbl": {
+      "d)": 61101
+   }
+},
+ {
+   "Year": 1987,
+   "Gasoline US (1000 bbl": {
+      "d)": 7163
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3235
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1275
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4991
+   },
+   "Total US (1000 bbl": {
+      "d)": 16665
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3223
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5328
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 692
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6971
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16214
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 373
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 479
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 85
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1112
+   },
+   "Total China (1000 bbl": {
+      "d)": 2048
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 15798
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 15889
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4617
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 26132
+   },
+   "Total World (1000 bbl": {
+      "d)": 62436
+   }
+},
+ {
+   "Year": 1988,
+   "Gasoline US (1000 bbl": {
+      "d)": 7332
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3393
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1332
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5226
+   },
+   "Total US (1000 bbl": {
+      "d)": 17283
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3320
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5277
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 740
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6953
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16290
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 409
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 532
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 79
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1183
+   },
+   "Total China (1000 bbl": {
+      "d)": 2203
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 16252
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 16344
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4828
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 26983
+   },
+   "Total World (1000 bbl": {
+      "d)": 64407
+   }
+},
+ {
+   "Year": 1989,
+   "Gasoline US (1000 bbl": {
+      "d)": 7383
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3412
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1369
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5161
+   },
+   "Total US (1000 bbl": {
+      "d)": 17325
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3367
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5176
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 776
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6930
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16248
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 425
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 569
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 80
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1241
+   },
+   "Total China (1000 bbl": {
+      "d)": 2315
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 16620
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 16585
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 4971
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 27456
+   },
+   "Total World (1000 bbl": {
+      "d)": 65632
+   }
+},
+ {
+   "Year": 1990,
+   "Gasoline US (1000 bbl": {
+      "d)": 7239
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3374
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1383
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4944
+   },
+   "Total US (1000 bbl": {
+      "d)": 16939
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3522
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5265
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 815
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6958
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16560
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 436
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 557
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 78
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1226
+   },
+   "Total China (1000 bbl": {
+      "d)": 2297
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 16826
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 16837
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 5127
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 27574
+   },
+   "Total World (1000 bbl": {
+      "d)": 66364
+   }
+},
+ {
+   "Year": 1991,
+   "Gasoline US (1000 bbl": {
+      "d)": 7140
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3309
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1342
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4868
+   },
+   "Total US (1000 bbl": {
+      "d)": 16659
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3488
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5380
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 793
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6681
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16342
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 507
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 616
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 86
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1283
+   },
+   "Total China (1000 bbl": {
+      "d)": 2491
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 16835
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 17134
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 5047
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 27460
+   },
+   "Total World (1000 bbl": {
+      "d)": 66477
+   }
+},
+ {
+   "Year": 1992,
+   "Gasoline US (1000 bbl": {
+      "d)": 7265
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3359
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1351
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4993
+   },
+   "Total US (1000 bbl": {
+      "d)": 16969
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3452
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5248
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 830
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6530
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16059
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 574
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 701
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 93
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1337
+   },
+   "Total China (1000 bbl": {
+      "d)": 2705
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 17030
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 17234
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 5122
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 28176
+   },
+   "Total World (1000 bbl": {
+      "d)": 67561
+   }
+},
+ {
+   "Year": 1993,
+   "Gasoline US (1000 bbl": {
+      "d)": 7422
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3437
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1407
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4895
+   },
+   "Total US (1000 bbl": {
+      "d)": 17161
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3361
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5224
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 839
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6197
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 15621
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 662
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 819
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 96
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1437
+   },
+   "Total China (1000 bbl": {
+      "d)": 3013
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 17188
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 17337
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 5215
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 27657
+   },
+   "Total World (1000 bbl": {
+      "d)": 67397
+   }
+},
+ {
+   "Year": 1994,
+   "Gasoline US (1000 bbl": {
+      "d)": 7541
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3555
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1529
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5009
+   },
+   "Total US (1000 bbl": {
+      "d)": 17635
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3331
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5179
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 858
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6208
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 15576
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 619
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 785
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 102
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1563
+   },
+   "Total China (1000 bbl": {
+      "d)": 3069
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 17556
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 17634
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 5414
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 28373
+   },
+   "Total World (1000 bbl": {
+      "d)": 68976
+   }
+},
+ {
+   "Year": 1995,
+   "Gasoline US (1000 bbl": {
+      "d)": 7723
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3581
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1551
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4780
+   },
+   "Total US (1000 bbl": {
+      "d)": 17635
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3340
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5292
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 894
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6331
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 15858
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 667
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 891
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 116
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1668
+   },
+   "Total China (1000 bbl": {
+      "d)": 3342
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 17941
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 18056
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 5643
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 28455
+   },
+   "Total World (1000 bbl": {
+      "d)": 70095
+   }
+},
+ {
+   "Year": 1996,
+   "Gasoline US (1000 bbl": {
+      "d)": 7850
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3705
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1637
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5053
+   },
+   "Total US (1000 bbl": {
+      "d)": 18245
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3371
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5578
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 945
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6206
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16100
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 724
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 985
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 125
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 1825
+   },
+   "Total China (1000 bbl": {
+      "d)": 3660
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 18251
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 18865
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 5925
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 28600
+   },
+   "Total World (1000 bbl": {
+      "d)": 71642
+   }
+},
+ {
+   "Year": 1997,
+   "Gasoline US (1000 bbl": {
+      "d)": 7961
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3839
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1664
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5075
+   },
+   "Total US (1000 bbl": {
+      "d)": 18539
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3394
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5590
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 990
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6252
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16226
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 744
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 1078
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 151
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 2035
+   },
+   "Total China (1000 bbl": {
+      "d)": 4007
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 18613
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 19420
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6087
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 29621
+   },
+   "Total World (1000 bbl": {
+      "d)": 73741
+   }
+},
+ {
+   "Year": 1998,
+   "Gasoline US (1000 bbl": {
+      "d)": 8184
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3844
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1701
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5097
+   },
+   "Total US (1000 bbl": {
+      "d)": 18827
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3390
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5718
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1049
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6434
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16591
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 760
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 1083
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 158
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 2138
+   },
+   "Total China (1000 bbl": {
+      "d)": 4139
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 18947
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 19433
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6120
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 29619
+   },
+   "Total World (1000 bbl": {
+      "d)": 74119
+   }
+},
+ {
+   "Year": 1999,
+   "Gasoline US (1000 bbl": {
+      "d)": 8361
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3952
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1748
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5364
+   },
+   "Total US (1000 bbl": {
+      "d)": 19425
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3372
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5737
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1110
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6226
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16446
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 778
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 1257
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 187
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 2165
+   },
+   "Total China (1000 bbl": {
+      "d)": 4387
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 19248
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 19930
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6357
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 30139
+   },
+   "Total World (1000 bbl": {
+      "d)": 75674
+   }
+},
+ {
+   "Year": 2000,
+   "Gasoline US (1000 bbl": {
+      "d)": 8386
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4059
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1793
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5356
+   },
+   "Total US (1000 bbl": {
+      "d)": 19594
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3222
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5718
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1146
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6123
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16209
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 803
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 1377
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 196
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 2321
+   },
+   "Total China (1000 bbl": {
+      "d)": 4697
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 19122
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 20350
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6484
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 30529
+   },
+   "Total World (1000 bbl": {
+      "d)": 76485
+   }
+},
+ {
+   "Year": 2001,
+   "Gasoline US (1000 bbl": {
+      "d)": 8519
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4155
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1728
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5133
+   },
+   "Total US (1000 bbl": {
+      "d)": 19534
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3192
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6020
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1135
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6151
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16497
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 826
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 1451
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 202
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 2330
+   },
+   "Total China (1000 bbl": {
+      "d)": 4810
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 19434
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 21017
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6387
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 30527
+   },
+   "Total World (1000 bbl": {
+      "d)": 77366
+   }
+},
+ {
+   "Year": 2002,
+   "Gasoline US (1000 bbl": {
+      "d)": 8735
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4070
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1664
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5156
+   },
+   "Total US (1000 bbl": {
+      "d)": 19625
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3154
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 5994
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1104
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6189
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16441
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 875
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 1580
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 209
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 2537
+   },
+   "Total China (1000 bbl": {
+      "d)": 5200
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 19888
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 21203
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6272
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 30875
+   },
+   "Total World (1000 bbl": {
+      "d)": 78238
+   }
+},
+ {
+   "Year": 2003,
+   "Gasoline US (1000 bbl": {
+      "d)": 8771
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4253
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1633
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5191
+   },
+   "Total US (1000 bbl": {
+      "d)": 19848
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 3041
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6175
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1132
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6183
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16532
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 942
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 1738
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 211
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 2890
+   },
+   "Total China (1000 bbl": {
+      "d)": 5781
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 20050
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 21894
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6236
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 31728
+   },
+   "Total World (1000 bbl": {
+      "d)": 79908
+   }
+},
+ {
+   "Year": 2004,
+   "Gasoline US (1000 bbl": {
+      "d)": 8897
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4420
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1694
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5488
+   },
+   "Total US (1000 bbl": {
+      "d)": 20499
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2988
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6277
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1203
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6186
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16654
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1071
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 2066
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 255
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 3345
+   },
+   "Total China (1000 bbl": {
+      "d)": 6738
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 20469
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 22848
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6439
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 32899
+   },
+   "Total World (1000 bbl": {
+      "d)": 82654
+   }
+},
+ {
+   "Year": 2005,
+   "Gasoline US (1000 bbl": {
+      "d)": 8918
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4443
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1749
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5421
+   },
+   "Total US (1000 bbl": {
+      "d)": 20532
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2865
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6394
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1264
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6266
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16788
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1111
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 2238
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 271
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 3259
+   },
+   "Total China (1000 bbl": {
+      "d)": 6878
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 20686
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 23360
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6671
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 33174
+   },
+   "Total World (1000 bbl": {
+      "d)": 83891
+   }
+},
+ {
+   "Year": 2006,
+   "Gasoline US (1000 bbl": {
+      "d)": 8913
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4523
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1687
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5190
+   },
+   "Total US (1000 bbl": {
+      "d)": 20313
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2772
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6535
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1302
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6212
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16822
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1199
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 2392
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 288
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 3523
+   },
+   "Total China (1000 bbl": {
+      "d)": 7402
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 20846
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 23924
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6638
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 33508
+   },
+   "Total World (1000 bbl": {
+      "d)": 84916
+   }
+},
+ {
+   "Year": 2007,
+   "Gasoline US (1000 bbl": {
+      "d)": 8855
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4522
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1655
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5177
+   },
+   "Total US (1000 bbl": {
+      "d)": 20208
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2679
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6381
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1336
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 6113
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16509
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1263
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 2548
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 309
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 3658
+   },
+   "Total China (1000 bbl": {
+      "d)": 7778
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 20996
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 24468
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6641
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 33995
+   },
+   "Total World (1000 bbl": {
+      "d)": 86100
+   }
+},
+ {
+   "Year": 2008,
+   "Gasoline US (1000 bbl": {
+      "d)": 8375
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4228
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1553
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4685
+   },
+   "Total US (1000 bbl": {
+      "d)": 18841
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2528
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6537
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1332
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 5900
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 16297
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1402
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 2761
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 315
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 3426
+   },
+   "Total China (1000 bbl": {
+      "d)": 7904
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 20698
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 24743
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6469
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 33260
+   },
+   "Total World (1000 bbl": {
+      "d)": 85170
+   }
+},
+ {
+   "Year": 2009,
+   "Gasoline US (1000 bbl": {
+      "d)": 8291
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3809
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1411
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4520
+   },
+   "Total US (1000 bbl": {
+      "d)": 18030
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2451
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6284
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1254
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 5573
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 15561
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1412
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 2761
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 363
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 3704
+   },
+   "Total China (1000 bbl": {
+      "d)": 8240
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 20811
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 24012
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6127
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 33133
+   },
+   "Total World (1000 bbl": {
+      "d)": 84083
+   }
+},
+ {
+   "Year": 2010,
+   "Gasoline US (1000 bbl": {
+      "d)": 8168
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3995
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1452
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4709
+   },
+   "Total US (1000 bbl": {
+      "d)": 18324
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2313
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6381
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1249
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 5467
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 15409
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1591
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3005
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 437
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 4356
+   },
+   "Total China (1000 bbl": {
+      "d)": 9390
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 21084
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 25087
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6366
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 34319
+   },
+   "Total World (1000 bbl": {
+      "d)": 86856
+   }
+},
+ {
+   "Year": 2011,
+   "Gasoline US (1000 bbl": {
+      "d)": 7926
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4022
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1438
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4597
+   },
+   "Total US (1000 bbl": {
+      "d)": 17983
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2212
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6256
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1255
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 5252
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14976
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1738
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3196
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 459
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 4346
+   },
+   "Total China (1000 bbl": {
+      "d)": 9739
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 21107
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 25725
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6427
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 34562
+   },
+   "Total World (1000 bbl": {
+      "d)": 87820
+   }
+},
+ {
+   "Year": 2012,
+   "Gasoline US (1000 bbl": {
+      "d)": 7858
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3816
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1403
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4516
+   },
+   "Total US (1000 bbl": {
+      "d)": 17594
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2098
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6138
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1227
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4996
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14458
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 1863
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3453
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 495
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 4360
+   },
+   "Total China (1000 bbl": {
+      "d)": 10170
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 21420
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 26028
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6410
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 34927
+   },
+   "Total World (1000 bbl": {
+      "d)": 88784
+   }
+},
+ {
+   "Year": 2013,
+   "Gasoline US (1000 bbl": {
+      "d)": 7993
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3838
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1440
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4735
+   },
+   "Total US (1000 bbl": {
+      "d)": 18006
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 2029
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6201
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1247
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4818
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14296
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 2143
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3503
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 546
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 4476
+   },
+   "Total China (1000 bbl": {
+      "d)": 10668
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 22030
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 26542
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6603
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 34976
+   },
+   "Total World (1000 bbl": {
+      "d)": 90152
+   }
+},
+ {
+   "Year": 2014,
+   "Gasoline US (1000 bbl": {
+      "d)": 8056
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4060
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1479
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4541
+   },
+   "Total US (1000 bbl": {
+      "d)": 18136
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 1995
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6102
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1278
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4657
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14032
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 2236
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3506
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 588
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 4804
+   },
+   "Total China (1000 bbl": {
+      "d)": 11134
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 22279
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 26660
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6707
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 35256
+   },
+   "Total World (1000 bbl": {
+      "d)": 90903
+   }
+},
+ {
+   "Year": 2015,
+   "Gasoline US (1000 bbl": {
+      "d)": 8280
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4005
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1555
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4685
+   },
+   "Total US (1000 bbl": {
+      "d)": 18524
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 1945
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6386
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1347
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4683
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14360
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 2601
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3538
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 659
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 5114
+   },
+   "Total China (1000 bbl": {
+      "d)": 11911
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 23024
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 26879
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 6970
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 35737
+   },
+   "Total World (1000 bbl": {
+      "d)": 92610
+   }
+},
+ {
+   "Year": 2016,
+   "Gasoline US (1000 bbl": {
+      "d)": 8394
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3845
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1623
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4756
+   },
+   "Total US (1000 bbl": {
+      "d)": 18618
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 1949
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6493
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1387
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4839
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14669
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 2707
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3418
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 728
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 5395
+   },
+   "Total China (1000 bbl": {
+      "d)": 12248
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 23600
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 26682
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 7245
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 36877
+   },
+   "Total World (1000 bbl": {
+      "d)": 94404
+   }
+},
+ {
+   "Year": 2017,
+   "Gasoline US (1000 bbl": {
+      "d)": 8393
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 3925
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1687
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 4878
+   },
+   "Total US (1000 bbl": {
+      "d)": 18883
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 1952
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6646
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1474
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4919
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14991
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 2840
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3440
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 816
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 5746
+   },
+   "Total China (1000 bbl": {
+      "d)": 12842
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 23960
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 27112
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 7556
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 37384
+   },
+   "Total World (1000 bbl": {
+      "d)": 96013
+   }
+},
+ {
+   "Year": 2018,
+   "Gasoline US (1000 bbl": {
+      "d)": 8400
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4121
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1712
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5195
+   },
+   "Total US (1000 bbl": {
+      "d)": 19428
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 1943
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6602
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1537
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4854
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14936
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 2921
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3492
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 927
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 6034
+   },
+   "Total China (1000 bbl": {
+      "d)": 13375
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 24094
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 27599
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 7842
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 37815
+   },
+   "Total World (1000 bbl": {
+      "d)": 97348
+   }
+},
+ {
+   "Year": 2019,
+   "Gasoline US (1000 bbl": {
+      "d)": 8338
+   },
+   "Diesel US (1000 bbl": {
+      "d)": 4073
+   },
+   "Jet Fuel US (1000 bbl": {
+      "d)": 1747
+   },
+   "Other Sources US (1000 bbl": {
+      "d)": 5242
+   },
+   "Total US (1000 bbl": {
+      "d)": 19400
+   },
+   "Gasoline Europe (1000 bbl": {
+      "d)": 1958
+   },
+   "Diesel Europe (1000 bbl": {
+      "d)": 6650
+   },
+   "Jet Fuel Europe (1000 bbl": {
+      "d)": 1570
+   },
+   "Other Sources Europe (1000 bbl": {
+      "d)": 4717
+   },
+   "Total Europe (1000 bbl": {
+      "d)": 14896
+   },
+   "Gasoline China (1000 bbl": {
+      "d)": 3087
+   },
+   "Diesel China (1000 bbl": {
+      "d)": 3690
+   },
+   "Jet Fuel China (1000 bbl": {
+      "d)": 974
+   },
+   "Other Sources China (1000 bbl": {
+      "d)": 6304
+   },
+   "Total China (1000 bbl": {
+      "d)": 14056
+   },
+   "Gasoline World (1000 bbl": {
+      "d)": 24324
+   },
+   "Diesel World (1000 bbl": {
+      "d)": 27955
+   },
+   "Jet Fuel World (1000 bbl": {
+      "d)": 7979
+   },
+   "Other Sources World (1000 bbl": {
+      "d)": 38013
+   },
+   "Total World (1000 bbl": {
+      "d)": 98272
+   }
+}
+]
