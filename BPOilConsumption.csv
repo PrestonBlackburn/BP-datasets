@@ -1,4 +1,4 @@
-Year,Gasoline US (1000 bbl/d),Diesel US (1000 bbl/d),Jet Fuel US (1000 bbl/d),Other Sources US (1000 bbl/d),Total US (1000 bbl/d),Gasoline Europe (1000 bbl/d),Diesel Europe (1000 bbl/d),Jet Fuel Europe (1000 bbl/d),Other Sources Europe (1000 bbl/d),Total Europe (1000 bbl/d),Gasoline China (1000 bbl/d),Diesel China (1000 bbl/d),Jet Fuel China (1000 bbl/d),Other Sources China (1000 bbl/d),Total China (1000 bbl/d),Gasoline World (1000 bbl/d),Diesel World (1000 bbl/d),Jet Fuel World (1000 bbl/d),Other Sources World (1000 bbl/d),Total World (1000 bbl/d)
+Year,Gasoline_US,Diesel_US,Jet_Fuel_US,Other_Sources_US,Total_US,Gasoline_Europe,Diesel_Europe,Jet_Fuel_Europe,Other_Sources_Europe,Total_Europe,Gasoline_China,Diesel_China,Jet_Fuel_China,Other_Sources_China,Total_China,Gasoline_World,Diesel_World,Jet_Fuel_World,Other_Sources_World,Total_World
 1980,6613,3260,1009,6179,17062,2786,4925,567,7491,15769,229,344,81,1053,1707,14481,15179,4085,27663,61408
 1981,6489,3166,936,5469,16060,2689,4640,541,6903,14772,216,341,77,992,1625,14364,14908,4025,26236,59533
 1982,6461,2911,932,4991,15295,2715,4465,533,6400,14112,228,330,75,981,1614,14362,14489,3995,24998,57845
@@ -39,5 +39,3 @@ Year,Gasoline US (1000 bbl/d),Diesel US (1000 bbl/d),Jet Fuel US (1000 bbl/d),Ot
 2017,8393,3925,1687,4878,18883,1952,6646,1474,4919,14991,2840,3440,816,5746,12842,23960,27112,7556,37384,96013
 2018,8400,4121,1712,5195,19428,1943,6602,1537,4854,14936,2921,3492,927,6034,13375,24094,27599,7842,37815,97348
 2019,8338,4073,1747,5242,19400,1958,6650,1570,4717,14896,3087,3690,974,6304,14056,24324,27955,7979,38013,98272
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
